@@ -1,0 +1,15 @@
+{
+    "name": "weida/weixin-mini-program",
+    "autoload": {
+        "psr-4": {
+            "Weida\\WeixinMiniProgram\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sgenmi",
+            "email": "sgenmi@gmail.com"
+        }
+    ],
+    "require": {}
+}
